@@ -25,9 +25,6 @@
 
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="devMrRy's GitHub Stats" src="https://github-readme-stats.devMrRy.vercel.app/api?username=devMrRy&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="devMrRy's GitHub Stats" src="https://github-readme-stats.devMrRy.vercel.app/api?username=devMrRy&show_icons=true&hide_border=true" />
