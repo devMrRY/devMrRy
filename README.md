@@ -1,5 +1,4 @@
 ### Hi there, I'm Rahul - aka devMrRy
-<br/>
 
 ### Connect with me:
 
@@ -27,4 +26,4 @@
 
 ---
 
-<img align="left" alt="devMrRy's GitHub Stats" src="https://github-readme-stats.devMrRy.vercel.app/api?username=devMrRy&show_icons=true&hide_border=true" />
+<img align="left" alt="devMrRy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devMrRy&show_icons=true&hide_border=true" />
