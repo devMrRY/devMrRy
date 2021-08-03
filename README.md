@@ -3,8 +3,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="devMrRy | LinkedIn" width="22px" style="background: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-yadav-65638817b/)[linkedin]
-[<img align="left" alt="devMrRy | Instagram" width="22px" style="background: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="devMrRy | LinkedIn" width="22px" style="background: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahul-yadav-65638817b/)
+[<img align="left" alt="devMrRy | Instagram" width="22px" style="background: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
 
 <br />
 
